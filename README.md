@@ -18,6 +18,3 @@ A lightweight CPU design project implemented in Verilog.
 
 This project uses Quartus for synthesis and simulation. The Verilog modules can be simulated using testbenches (e.g., `top_mif_tb.v`).
 
-## Repository
-
-[CPULite on GitHub](https://github.com/jeremy960110/CPULite.git)
