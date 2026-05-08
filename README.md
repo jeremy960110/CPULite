@@ -7,7 +7,6 @@ A lightweight CPU design project implemented in Verilog.
 - **alu.v** - Arithmetic Logic Unit
 - **cpu16_core.v** - Core CPU architecture
 - **regfile.v** - Register File
-- **pc.v** - Program Counter
 - **imem.v** - Instruction Memory
 - **instruction_rom.v** - Instruction ROM
 - **top_mif.v** - Top-level module with MIF file support
