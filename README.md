@@ -12,12 +12,7 @@ A lightweight CPU design project implemented in Verilog.
 - **top_mif.v** - Top-level module with MIF file support
 
 ## Files
-
-- `program.mif` - Program memory initialization file
-- `*.qpf`, `*.qsf` - Quartus project files
-- `db/` - Quartus database files
-- `output_files/` - Generated output files
-- `simulation/` - Simulation files
+- `program.mif` - Program memory initialization file 
 
 ## Getting Started
 
